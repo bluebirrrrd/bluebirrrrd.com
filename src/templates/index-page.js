@@ -10,7 +10,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  description,
 }) => (
   <div>
     <div
@@ -44,7 +43,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {title}
+          {heading}
         </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
@@ -92,7 +91,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  description: PropTypes.string,
 }
 
 const IndexPage = ({ data }) => {
@@ -105,7 +103,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        description={frontmatter.description}
       />
     </Layout>
   )
@@ -135,7 +132,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        description
       }
     }
   }
