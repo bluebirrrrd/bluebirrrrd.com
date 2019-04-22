@@ -11,14 +11,16 @@ export default class BlogIndexPage extends React.Component {
           className="full-width-image-container margin-top-0"
           style={{
             backgroundImage: `url('/img/blog-index.jpg')`,
+          backgroundPosition: `top left`,
+          backgroundAttachment: `fixed`,
           }}
         >
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
-              color: 'white',
+              boxShadow: '0.5rem 0 0 rgb(246, 174, 45), -0.5rem 0 0 rgb(246, 174, 45)',
+              backgroundColor: 'rgb(246, 174, 45)',
+              color: '#3a3a3a',
               padding: '1rem',
             }}
           >
