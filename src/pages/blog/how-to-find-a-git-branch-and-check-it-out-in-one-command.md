@@ -13,7 +13,7 @@ tags:
 ---
 I switch branches in my projects **a lot**. What I'm always struggling with, though, is remembering branch names.
 
-In my team, the naming convention is `[feature/bugfix]/<ticketNumber>-<description-in-snake-case>` so it's also hard to remember those numbers.
+In my team, branch naming convention is `[feature/bugfix]/<ticketNumber>-<description-in-snake-case>` which makes it hard to guess branch name if you're in a hurry.
 
 I wrote a shortcut command to help with those cases. Here it is in my `.zshrc`:
 
