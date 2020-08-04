@@ -24,6 +24,8 @@ So if there is an obstacle that can be solved by talking about it, ***it’s not
 
 This is what I try to remind myself every time I need to have a conversation I would avoid if I were an IC. Obviously, there’s more things I need to think about such as delivering the message correctly, making sure the time for a conversation is right and so on. Those things are as important, but the hardest part for me with those discussions is to push myself through this “ugh, but I don’t want to” phase and to make a decision to have it.
 
+Of course, not all conversations about obstacles are worth having. Sometimes a thing you’re stressing about can be small enough not to be addressed, if there’s no potential harm of going that route. But if you feel like a thing you need to discuss is important, (I don’t know how to say it properly so bear with my word choice here) makes people emotional, and not talking about it will make things worse, then do it.
+
 So, ***if the consequences of not having a conversation weigh more than your discomfort about starting it, you have to do it.***
 
 Hope this helps.
