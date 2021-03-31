@@ -8,7 +8,7 @@ I'm Anna Kurylo, a Ukrainian person living in the Czech Republic. My day job is 
 
 I have my own podcast in Ukrainian called ["Хочу як ти"](https://anchor.fm/like-you) (roughly translated as "I want to be just like you") which is focused on learning from other people's experiences. I ask people how they got started in their profession, in a hobby or in solving a particular challenge in life. You're welcome to give it a listen!
 
-This blog is my side project and an attempt to make a blog with a GUI for editing which wouldn't require hosting on DigitalOcean, like my old blog on WordPress did. This website using Gatsby and is built and deployed via Netlify. If you're interested in specifics, the code is available on [GitHub](https://github.com/bluebirrrrd/bluebirrrrd.com).
+This blog is my side project and an attempt to make a blog with a GUI for editing which wouldn't require hosting on DigitalOcean, like my old blog on WordPress did. This website is created with Gatsby and gets deployed via Netlify. If you're interested in specifics, the code is available on [GitHub](https://github.com/bluebirrrrd/bluebirrrrd.com).
 
 
 I also enjoy contributing to tech communities, so here's a couple of my most recent inputs:
