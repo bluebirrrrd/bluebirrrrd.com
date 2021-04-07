@@ -18,7 +18,7 @@ I want to remember this moment, because just like any human, I tend to forget th
 
 ## What is it?
 
-RHLS Premium is a new subscription tier offered by Red Hat Training, which allows users to not only take the courses in a self-paced manner as a text or video, but also get access to Red Hat certified instructors by attending live sessions on all the courses we currently offer. A student can sign up for a 3-hour-long live session and learn a part of a course through live virtual training. This gives them an opportunity to ask questions, be more engaged and practice with someone who has the expertise on a topic.
+RHLS Premium is a new subscription tier offered by Red Hat Training, which allows users to not only take the courses in a self-paced manner as a text or video (both with lab exercises), but also to get access to Red Hat certified instructors by attending live sessions on all the courses we currently offer. A student can sign up for a 3-hour-long live session and learn a part of a course through live virtual training. This gives them an opportunity to ask questions, be more engaged and practice with someone who has the expertise on a topic.
 
 There's several other features that are offered as part of this tier, but attending live sessions is a differentiator from other subscription tiers we offer.
 
