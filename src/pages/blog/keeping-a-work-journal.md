@@ -9,13 +9,13 @@ tags:
   - career
   - ''
 ---
-When I was helping to hire more people to my team a couple of years ago (I was an individual contributor at the time), I was going through resumes. One application, in particular, caught my attention because it came with a "work journal" as part of it.
+When I was helping to hire more people to my team a couple of years ago (I was an individual contributor at the time), I was reviewing the resumes of candidates. One particular application caught my attention because it came with a "work journal" as part of it.
 
 It was nothing complex: just a list of things a person did at their job, together with awards and recognition they've received from peers. I really liked it, though, because it gave a really good picture of the things the candidate has done and what impact they've had on their product, team, and department.
 
 ### Why keep a journal
 
-Recently [I spoke about salaries at a TechToloka event](https://youtu.be/KZL2WO6mw-A). As part of it, we talked about manager's considerations for raises, and I realized that asking for a raise is exactly the situation where this kind of journal could help to back your case.
+Recently [I spoke about salaries at a TechToloka live stream](https://youtu.be/KZL2WO6mw-A). As part of it, we talked about manager's considerations for raises, and I realized that asking for a raise is exactly the situation where this kind of journal could help to back your case.
 
 Since I became a manager, I try to keep tabs on the recognition and positive things I hear about my associates. In my email, I have a label called "Team performance", and several sub-labels called "Kudos to \<name\>" under it, one label per associate. All the congratulations, product launch emails, resolved customer issues that get resolved by someone from my team get labeled for my future reference. This helps me with performance reviews, but at the same time, that's not the whole story, since positive things are said via emails less often than via chat or during in-person communication.
 
